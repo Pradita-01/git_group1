@@ -1,4 +1,5 @@
 def add(a, b):
+    print("Adding numbers")
     return a + b
 
-print("Sum:", add(5, 3))
+print(add(10, 3))
