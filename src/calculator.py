@@ -1,4 +1,3 @@
 def add(a, b):
+    print("Main branch addition")
     return a + b
-
-print("Sum:", add(5, 3))
